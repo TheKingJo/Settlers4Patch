@@ -2,89 +2,88 @@
 # The Settlers IV Community Patch ChangeLog
 
 ## APP 
-Automatischer Download der neuesten App und Spielversion. [V3.0.1517]  
-Versionsauswahl "Community Patch" oder "History Edition". [V3.0.1517]  
-Sprachauswahl der App hinzugefügt.  [V3.1.1519]  
-Sicherung der "History Edition".  [V3.0.1517] 
+Automatic download of the newest app and game version. [V3.0.1517]  
+Version selection "Community Patch" or "History Edition". [V3.0.1517]  
+Language selection added.  [V3.1.1519]  
+Backup of the "History Edition".  [V3.0.1517] 
 
 ### FEATURES
-Auswahl der Spielgeschwindigkeit. [V3.0.1517] 
-Anzeige der Spielversion in der App und im Hauptmenü. [V3.0.1517]  
+Gamespeed selection. [V3.0.1517] 
+Indicator of game version in app and game main menu. [V3.0.1517]  
 
 ### TOOLS
-Enthält den Editor+ von MuffinMario. [V3.0.1517]  
-Enthält den Texturenwechsler von Cybertom. [V3.0.1517]  
-Setup, Ordner und Reset Button hinzugefügt [V3.1.1519]
+Contains Editor+ of MuffinMario. [V3.0.1517]  
+Contains Texture-Changer of Cybertom. [V3.0.1517]  
+Setup, folder and reset button added [V3.1.1519]
 
 
 ## ALLGEMEINE ÄNDERUNGEN
 
-Die Siedler Anzahl wurde für jeden Spieler auf 65535 gesetzt. [V.1.0.0]  
-Die Maximale Träger Anzahl wurde auf 65535 gesetzt. [V1.0.0]  
+Settler amount for every player raised to 65535. [V.1.0.0]  
+Maximum carrier amount raised to 65535. [V1.0.0]  
 
-Es ist nun möglich das Spiel auf der Geschwindigkeit 2 & 3 im Multiplayer zu Spielen. [V1.2.2]  
+It's now possible to play the game on speed 2 and 3 in Multiplayer. [V1.2.2]  
 
-Das Ram Limit von 2GB wurde aufgehoben, das führt dazu das das Spiel generell Performanter wird [V1.3.0]  
-Das KI verhalten wurde grundlegend überarbeitet. [V2.0.0]  
+Ram limit of 2GB was raised, general performance improvement is expected. [V1.3.0]  
+KI behaviour fundamentaly revised. [V2.0.0]  
 
 
 ## BALANCE
 
 ### ALLE VÖLKER:
-Alle Level 2 Schwertkämpfer haben nun einen Rüstungswert von 1. [V1.2.0]  
-Alle Level 3 Schwertkämpfer haben nun einen Rüstungswert von 2. [V1.2.0]  
-Die Bonuskampfkraft von Squadleadern wurde von 10% auf 17% erhöht. [V1.2.0]  
+All Level 2 swordsman now have armour of 1. [V1.2.0]
+All Level 3 swordsman now have armour of 2. [V1.2.0]
+The bonus combat power of squadleaders has been increased from 10% to 17%.  [V1.2.0]
 Squadleader haben nun einen Rüstungswert von 3. [V1.2.0]  
 
-Der Arbeitsradius des Lazarettes wurde verdoppelt. [V1.2.3]  
-Der Arbeitsradius des Jägers wurde verdoppelt. [V1.2.3]  
+Squadleaders now have an armor value of 3. [V1.2.0].
 
-Auf der Karte sind nun deutlich mehr Jagdbare Tiere vorhanden. [2.0.0]  
+The working radius of the military hospital has been doubled.  [V1.2.3]
+The working radius of the hunter has been doubled.  [V1.2.3]
+
+The map now contains significantly more huntable animals.  [2.0.0]
 
 
 ### Trojaner
-Die Bewohneranzahl des Mittleren Wohnhauses der Trojaner wurde von 20 auf 25 erhöht. [V1.2.0]  
-Der Kleine Turm wurde von 3/3 (Holz/Stein) auf 2/3 geändert. [V1.2.0]  
-Die Geschwindigkeit der Goldschmelze wurde erhöht. [V1.2.0]  
-Die Bogenschützen wurden auf das Niveau der anderen Völker angehoben. [V1.2.0]  
-Die Baukosten der Goldschmelze wurde von 1 Brett 3 Steine auf 4 Bretter 6 Steine angehoben. [V1.2.2]  
-Das Leben der Rucksackkatapultisten wurde erhöht. [V1.2.2]  
-    Level 1 von 30 auf 60  
-    Level 2 von 40 auf 85    
-    Level 3 von 45 auf 95  
-Der Rucksackkatapultist Level 3 macht nun den meisten Flächenschaden zuvor war es der Level 2 Rucksackkatapultist.
-Der Schaden der Rucksackkatapultisten wurde erhöht. [V1.2.2]  
-    Level 1 von 8 auf 35  
-    Level 2 von 11 auf 40  
-    Level 3 von 13 auf 50  
+The number of inhabitants/settlers of the Trojan's Middle Residence was increased from 20 to 25. [V1.2.0]
+The Small Tower was changed from 3/3 (wood/stone) to 2/3. [V1.2.0]
+The speed of gold smelting has been increased. [V1.2.0]
+The archers have been raised to the level of the other races. [V1.2.0]
+The construction cost of the gold smelting was increased from 1 board 3 stones to 4 boards 6 stones. [V1.2.2]
+The life of the backpack catapulters has been increased. [V1.2.2]
+    Level 1 from 30 to 60
+    Level 2 from 40 to 85
+    Level 3 from 45 to 95
+The Backpack Catapultist Level 3 now does the most area damage, before it was the Level 2 Backpack Catapultist. Backpack Catapultist damage has been increased. [V1.2.2]
+    Level 1 from 8 to 35
+    Level 2 from 11 to 40
+    Level 3 from 13 to 50
 
 ### Römer:
-Die verursachte Heilung der Medics wurde erhöht. [V1.2.2]  
-   Level 1 von 3 auf 5
-   Level 2 von 6 auf 10
-   Level 3 von 9 auf 15
+Caused healing of the Medics has been elevated. [V1.2.2]
+    Level 1 from 3 to 5
+    Level 2 from 6 to 10
+    Level 3 from 9 to 15
 
 ### Maya: 
-Die Angriffsgeschwindigkeit der Blasrohrschützen wurde erhöht. [V1.2.2]
-Das Leben der Blasrohrschützen wurde verringert. [V1.2.3]
-    Level 2 von 125 auf 110
-    Level 3 von 190 auf 140
+The attack speed of the blowpipe gunners has been increased. [V1.2.2]
+The life of the blowgunners has been decreased. [V1.2.3]
+    Level 2 from 125 to 110
+    Level 3 from 190 to 140
 
 ### Wikinger:
-Die Geschwindigkeit des Sägewerkes wurde erhöht. [V1.2.3]
-Die Geschwindigkeit des Wasserwerkes wurde erhöht. [V2.0.0]
+The speed of the sawmill has been increased. [V1.2.3]
+The speed of the waterworks has been increased. [V2.0.0]
 
 ## BUGFIX
 
-Der Musik Bug der Maya wurde behoben. [V1.2.2]  
-Aktivierung der Meldung: Eine Mine findet keine Ressourcen mehr. [V1.2.2]  
-Verbesserung/Aktivierung der Meldung: Ein Fischer findet keine Fische mehr in seinem Arbeitsbereich. [V1.2.2]  
+The Mayan music bug has been fixed. [V1.2.2]
+Activation of the message: A mine cannot find resources anymore. [V1.2.2]
+Improvement/Activation of the message: A fisherman can no longer find fish in his working area. [V1.2.2]
 
-Die Netzwerkseingabeverzögerung wurde Optimiert. [V2.0.0]  
+The network input delay was optimized.  [V2.0.0]
 
 ## MISC
 
-Ein nicht verwendetes Lied der Trojaner wurde hinzugefügt. [V1.2.2]  
-Kleinere Textanpassungen. [V2.0.0]  
-
-
+An unused Trojan song was added. [V1.2.2]
+Minor text adjustments
