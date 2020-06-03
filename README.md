@@ -25,7 +25,6 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 - Nuevo Ordenador
 - Archenwaechter
 - Hörer 
-- King Jo
 - SiedelndeEnte
 
 ## English Translation
