@@ -25,7 +25,6 @@ All graphics and text content, as well as all other information in this applicat
 - Nuevo Ordenador
 - Archenwaechter
 - Hörer 
-- King Jo
 - SiedelndeEnte
 
 ### English Translation
